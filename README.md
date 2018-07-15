@@ -1,6 +1,8 @@
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
 
-This is an app that helps users make a to-do list. Users input the task that they want to complete, and 
-the program adds it into a list. Users can then check the task completed and delete it from the list.
+This is an program that plays music files. Users can click on any
+song on the list and the program will play the music file. Users
+can adjust the volume or skip ahead of the song.
 
+![alt text](images/bloc_jams_logo.png)
